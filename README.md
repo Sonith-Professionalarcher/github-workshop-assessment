@@ -10,7 +10,8 @@ Workshop Date: (10.2.2026)
 ---
 
 ## Project Description
-This repository is created for GitHub workshop practice – branch A version.
+This repository is created for GitHub workshop practice – branch B version.
+
 
 
 ## How to Run
